@@ -3,6 +3,7 @@ import { useHistory } from 'react-router-dom';
 import * as S from './styled';
 
 export default function Repositories() {
+  const history = useHistory();
   const [ repositories, setRepositories ] = useState([]);
   let indice = 0;
   
@@ -13,9 +14,9 @@ export default function Repositories() {
       setRepositories(repositoriesName);
       localStorage.clear();
     } else {
-      useHistory.push('/');
+      history.push('/');
     }
-  }, []);
+  }, [history]);
 
   return (
     <S.Container>
