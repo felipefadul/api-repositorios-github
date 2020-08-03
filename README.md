@@ -1,10 +1,10 @@
-# Repositorios GitHub
+# Repositórios GitHub
 Página web em [React](https://pt-br.reactjs.org/) que exibe os repositórios de um usuário do GitHub a partir da [api do GitHub](https://developer.github.com/v3/).
-A página pode ser acessada aqui: https://api-repositorios-github.netlify.app/
+A página pode ser acessada aqui: https://api-repositorios-github.netlify.app/.
 
 ## Motivação
 
-Projeto criado a partir das aulas de [React](https://pt-br.reactjs.org/) do programa Hiring Coders da [Gama Academy](https://gama.academy/) em parceria com a [VTEX](https://vtex.com/br-pt/)
+Projeto criado a partir das aulas de [React](https://pt-br.reactjs.org/) do programa Hiring Coders da [Gama Academy](https://gama.academy/) em parceria com a [VTEX](https://vtex.com/br-pt/).
 
 ## Como usar?
 
